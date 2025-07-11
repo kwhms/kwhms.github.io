@@ -45,7 +45,7 @@ For a bronze certificate, the first level, a dedicated basketball player might s
 2. A Personal Development goal to maintain a 3.0 GPA through weekly study sessions, totaling 15 hours.
 3. A Physical Fitness goal to improve their vertical jump through weekly plyometric drills, totaling 15 hours
 4. An Expedition/Exploration goal to organize a 1-day team hike in a nearby state park.
-5. 
+   
 
 Subsequent levels require more hours, with the highest gold medal level requiring over 800 total hours.
 
