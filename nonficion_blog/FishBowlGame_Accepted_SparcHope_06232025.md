@@ -6,7 +6,11 @@ Fish Bowl thrives on spirited discussions, rewards teamwork, and is 3 games in o
 
 ## What’s needed to play:
 
-6 players or more, and the more the merrier. Timer. Pens. Paper to keep score and to tear into scraps. A bowl to hold all the folded scraps.
+6 players or more, and the more the merrier.  
+Timer.  
+Pens.  
+Paper to keep score and to tear into scraps.  
+A bowl to hold all the folded scraps.
 
 ## Get setup:
 
