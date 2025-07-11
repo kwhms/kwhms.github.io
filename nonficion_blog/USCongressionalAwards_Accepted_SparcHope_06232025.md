@@ -55,5 +55,6 @@ In their last impact statement, the US Congressional Awards program reported 50,
 
 
 
-Would your teen like to be part of that next impact report?  If yes, check out www.congressionalaward.org for more information and best wishes as you guide your high schooler to unleash their potential.
+Would your teen like to be part of that next impact report?  
+If yes, check out www.congressionalaward.org for more information and best wishes as you guide your high schooler to unleash their potential.
 
