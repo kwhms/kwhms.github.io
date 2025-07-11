@@ -2,6 +2,7 @@
 # Jump Rope: The Surprising Workout for Parents
 
 Does jump rope stir nostalgic memories of playing at recess or watching Rocky movies? Much more than bygone recollections, jump rope is the surprising workout that conveniently adapts to modern parenting life. 
+
 The only requirements are 1 rope and enough space to swing it. No expensive, complicated or space-hogging equipment. Workout at home and at any convenient time. No gym memberships, personal trainers or class schedules.
 
 ## How good is the workout?
@@ -22,5 +23,6 @@ Stressed parents will appreciate the mental benefits of jump rope. The rhythm an
 Check out these two great resources to learn more and get started:
 * The Jump Rope Dudes have a website and YouTube channel with tutorials, reviews, and workouts. www.jumpropedudes.com 
 * Crossrope has a website and an app with workouts and challenges, both free and through a subscription. They also sell weighted ropes and other accessories. www.crossrope.com 
+
 
 So let's revive youthful fun, blast Rocky's "Eye of the Tiger" and get jumping!
