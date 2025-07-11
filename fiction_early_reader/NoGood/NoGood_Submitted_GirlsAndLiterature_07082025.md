@@ -1,6 +1,7 @@
 # No Good
 
-Her family is good at many things. But the girl is not. 
+Her family is good at many things.  
+But the girl is not. 
 
 Grandpa makes fantastic food.   
 She loves the cakes.  
