@@ -1,8 +1,9 @@
 # Girls And Literature
 
-Pieces for **Girls and Literature** https://www.girlsandliterature.com/ were written with the following constraints:
+Pieces for **Girls and Literature** https://www.girlsandliterature.com/ had the following constraints:
 
-* Elementary-age readers, non-native english readers
+* Elementary-age readers
+* non-native english readers
 * 1-2 pages long (no more than 2 pages)
 * Conveys a meaningful message or moral
 * Contains words ONLY from the list provided
