@@ -11,15 +11,16 @@ Fish Bowl thrives on spirited discussions, rewards teamwork, and is 3 games in o
 ## Get setup:
 
 Split players into two teams. Keeping in mind the sweet spot is **a total of 30-60 scraps of paper**, divide the paper among players.
+
 Each player writes a word on their paper. Ideally a single word like “whistle” or “shark” but 2 words can be allowed for a proper name like “Santa Claus” or “Arnold Schwarzenegger”.  Try to keep it short and sweet. Fold all the scraps and place in the bowl.
 
 ## The rounds:
 
 Fish bowl has 3 rounds. The first round is taboo style, the second round password style, and the third round charade style. On a player’s turn, the idea to get as many correct guesses as possible in **under 60 seconds**. Players give clues according to the round style to help their team guess the word.
 
-The taboo round is a speaking-only round, no gestures or movements, and the clue-giver can say anything EXCEPT the actual word itself or any “rhymes with” clues.
+The taboo round is a speaking-only round, no gestures or movements, and the clue-giver can say anything **EXCEPT** the actual word itself or any “rhymes with” clues.
 
-The password round is also a speaking-only round, still no gestures or movements, but now the clue-giver can say ONLY ONE word, ideally something memorable from round 1.
+The password round is also a speaking-only round, still no gestures or movements, but now the clue-giver can say **ONLY ONE** word, ideally something memorable from round 1.
 
 The charades round is the opposite and the clue-giver must silently act out clues. No sounds at all.
 
@@ -31,7 +32,7 @@ Clue-givers can elect to pass immediately or play the selected paper. Once the c
 
 Each round begins with a full fish bowl and ends when the bowl is empty.
 
-Beware round 2! It is possible to get stuck on a single word, including the very first one! Since the clue-giver is only allowed to utter 1 word and provide no other clues, they may end up helplessly watching as time runs out on their teammates.
+**Beware round 2!** It is possible to get stuck on a single word, including the very first one! Since the clue-giver is only allowed to utter 1 word and provide no other clues, they may end up helplessly watching as time runs out on their teammates.
 
 Teammates can discuss guesses and guesses are unlimited during the 60 second window.
 
