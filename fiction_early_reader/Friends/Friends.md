@@ -1,6 +1,8 @@
+# Friends
+
 Sue is new in school.  
 I do not know Sue.  
-But I want to be her friend. 
+But I hope we can be friends. 
 
 I ask her to play at my house.  
 I tell her,  
@@ -36,7 +38,7 @@ My hair is short and brown.
 Her shoes are clean. 
 My shoes are dirty. 
 
-I am sad. What if we can not be friends? 
+I feel sad. What if we can not be friends? 
 But Sue is very nice. I try again. 
 
 I ask Sue, “Do you like ice cream?”
