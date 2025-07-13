@@ -11,7 +11,7 @@ Oh! Sue laughs. She tells him,
 I know you like them.  
 Do you think Dad does too?"
 
-Her brother looks sad.
+Her brother looks sad.  
 "Well, no. He does not."  
 
 Sue smiles at her baby brother,  
