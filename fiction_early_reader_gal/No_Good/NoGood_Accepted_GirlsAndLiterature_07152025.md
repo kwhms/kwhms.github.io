@@ -1,44 +1,47 @@
 # No Good
+Maya’s family is good at many things.  
+But Maya feels she is not.
 
-The girl’s family is good at many things.  
-But the girl feels she is not.
-
-Grandpa makes food.  
+Grandpa cooks food.  
 He makes chocolate cake.  
 He adds coconut.  
 He adds mango.  
-He adds pineapple.  
-It is big. It is sweet. It is good.
+He adds pineapple.
 
-But her cake is flat.  
+It is big.   
+It is sweet.   
+It is good.
+
+But Maya’s cake is flat.  
 It is not good.  
-She feels sad.
+Maya feels sad.
 
 Her brother plays baseball.  
-He runs. He hits the ball.  
-He hits it high in the sky.  
-His friends clap. They jump.  
+He runs.   
+He hits the ball.  
+He hits it high in the sky\!
+
+His friends clap.   
+They jump.  
 “Hooray\!” they say.
 
-But her bat is small.  
-She can not run fast.  
-She feels sad.
+But Maya’s bat is small.  
+She cannot run fast.  
+Maya feels sad.
 
 Grandma paints animals.  
 Her horse is big.  
 Her horse looks real.  
 It looks like a photo.
 
-But the girl draws a tiger.  
+Maya draws a tiger.  
 She uses a crayon.  
-The tiger looks like a dog.  
-Not a good one.  
-She feels sad.
+But the tiger looks like a dog.  
+Maya feels sad.
 
-She goes to her mom.  
-She says,  
-“Mom, I am no good at things.”  
-“I try, but I feel sad.”
+Maya goes to her mom.  
+“Mom, I am no good at things.  
+I try, but I feel sad,” she says.
 
 Mom gives her a hug.  
 Mom smiles.  
@@ -46,7 +49,8 @@ She says,
 “You do good things.  
 Let’s see…”
 
-“You read the cooking book for Grandpa because he cannot see it.  
+“You read the cooking book for Grandpa.  
+He cannot see it.  
 You add the eggs.  
 You add the milk.  
 You add the sweet fruits.  
@@ -58,7 +62,10 @@ That is great.”
 
 “You help Grandma paint.  
 You pick the colours.  
-Red, blue, yellow, purple.  
+Red.  
+Blue.   
+Yellow.   
+Purple.  
 That is beautiful.”
 
 Mom says,  

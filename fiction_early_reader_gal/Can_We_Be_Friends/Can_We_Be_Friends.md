@@ -14,8 +14,8 @@ Do you like them too?”
 “Oh, no!” She says. 
 “They are scary.  
 I like small animals.  
-Animals that are in the garden. 
-I like frogs and birds. 
+Animals that are in the garden.  
+I like frogs and birds.  
 My favourite bird is a robin.” 
 
 But I do not like small animals very much.  
