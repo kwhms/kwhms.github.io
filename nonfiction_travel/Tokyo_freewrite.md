@@ -1,6 +1,5 @@
 # Tokyo
-
-## Free Writing Prompt - journey outside realm of normal experience. ~10mins
+###### Writing Prompt, ~5min - journey outside realm of normal experience
 
 A group of Elvis impersonators walk past a group dressed head-to-toe in Hello Kitty garb.  
 A military green truck with men wearing Rising-Sun headbands and yelling out of mega-phones drive past.  
@@ -12,7 +11,7 @@ My red-haired husband and I bob along with the crowd, 2 American buoys in the se
 
 The tidal feeling continues as the wash of electric, colored signs with mysterious lettering submerge us down each road we take.
 
-The smells of authentic and exotic foods trickle out of restaurant doorways and cause me to look in each window I can.
+The smells of authentic and exotic foods trickle out of restaurant doorways and cause me to look in each window I can...
 
-I WAS THE ALIEN
+*I am the alien*
 
