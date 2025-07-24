@@ -16,7 +16,7 @@ Adults had failed her. Despite the framed diplomas and honorary plaques on the w
 
 Emmy finally gave her the lost words.  
 
-Their sessions were sacrosanct. Victoria abandoned her family mid-sentence in favor of Emmy’s role-play scenarios and conversational mirror exercises. Guarding their sessions, Victoria dismissed her parents with an exaggerated “I knooooooow, I wiiiiiiil”, dragging out the vowels exactly as Emmy warned against. If her copy-cat sister Helen snuck into her room and dared to look at the screen, Victoria slammed her with a disdainful, “Are you for real?”  If registered by Emmy, that tone would trigger a user recalibration session.  
+Their sessions were sacrosanct. Victoria abandoned her family mid-sentence in favor of Emmy’s role-play scenarios and conversational mirror exercises. Guarding their sessions, Victoria dismissed her parents with an exaggerated “I knooow, I wiiill”, dragging out the vowels exactly as Emmy warned against. If her copy-cat sister Helen snuck into her room and dared to look at the screen, Victoria slammed her with a disdainful, “Are you for real?”  If registered by Emmy, that tone would trigger a user recalibration session.  
 
 Helen called it The Frenemy because she didn’t need or understand the wonderful technology.  But in two years, Victoria’s social capital had soared, and she was safely at the top of the social food chain.  
 
@@ -28,9 +28,7 @@ For her final school year, Victora programmed her most aggressive goal. She titl
 
 It was still not enough to protect her. They had found her. They had hacked into her accounts. They had hacked into Emmy. They used her own words against her.  
 
-Her private confessions, those nasty little thoughts that crawled across her brain like ants, now offered up to the world. Her self-criticisms and the AI’s corrections blanketed the football field and the tiny stage in the center.  
-
-The shrieks, gasps, and laughter crashed down from the silver bleachers and knocked Victoria from the stage. The crown scratched her face as it fell, and she left it under the bright Friday lights. She retreated with only one clear thought – what would Emmy say?  
+Her private confessions, those nasty little thoughts that crawled across her brain like ants, now offered up to the world. The shrieks, gasps, and laughter crashed down from the silver bleachers and knocked Victoria from the stage. The crown scratched her face as it fell, and she left it under the bright Friday night lights. She retreated with only one clear thought – what would Emmy say?  
 
 Victoria searched desperately for the family sedan in the parking lot. She let herself cry when she finally found the getaway car only to immediately check herself. Helen was there.  
 
