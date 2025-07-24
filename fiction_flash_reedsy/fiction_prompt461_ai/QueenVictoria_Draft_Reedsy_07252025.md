@@ -26,13 +26,13 @@ She told Emmy everything. On dark days, she mourned the wonderful parts of herse
 
 For her final school year, Victora programmed her most aggressive goal. She titled it Main Character Energy. After these last 200 plus sessions, she earned the highest likeability score in her training history. And she wore the crown.   
 
-It was still not enough to protect her. They had found her. They had hacked into her accounts. They had hacked into Emmy. They used her own words against her.  
+It was still not enough to protect her. They had found her. They had hacked into her accounts. They had hacked Emmy. They used her own words against her.  
 
 Her private confessions, those nasty little thoughts that crawled across her brain like ants, now offered up to the world. The shrieks, gasps, and laughter crashed down from the silver bleachers and knocked Victoria from the stage. The crown scratched her face as it fell, and she left it under the bright Friday night lights. She retreated with only one clear thought – what would Emmy say?  
 
 Victoria searched desperately for the family sedan in the parking lot. She let herself cry when she finally found the getaway car only to immediately check herself. Helen was there.  
 
-Victoria’s stomach clenched at the thought of Helen witnessing her humiliation. She had just been burned by a hundred expressions of judgement, dismay, and amusement. But Helen dared to look ashamed. Victoria gathered words like stones, ready to hurl them at Helen and remind her that she, Victoria, was the victim. When Victoria's eyes caught sight of the transmitter in Helen's hands, the words fell from her.  
+Her stomach clenched at the thought of Helen witnessing her humiliation. She had just been burned by a hundred expressions of judgement, dismay, and amusement. But Helen dared to look ashamed. Victoria gathered words like stones, ready to hurl them at Helen and remind her that she, Victoria, was the victim. When Victoria's eyes caught sight of the transmitter in Helen's hands, the words fell from her.  
 
 Silently Victoria pointed at the transmitter. Helen clenched it before dropping it into a bag. Then she pulled out a laptop, lightly clicked here and there, and turned to show her big sister. The glowing screen displayed a folder filled with her Emmy conversation files. Victoria's head throbbed violently, and Helen blurred in front of her.  
 
