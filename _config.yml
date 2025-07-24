@@ -1,0 +1,22 @@
+title: "Kelly's Writing Portfolio"
+author: "Kelly"
+description: "Flash fiction, nonfiction, experiments, and stories of resonance."
+
+theme: minima
+baseurl: "" # leave blank unless using a subfolder
+url: "https://kwhms.github.io"
+
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+minima:
+  navigation:
+    - title: "Home"
+      url: "/"
+    - title: "Stories"
+      url: "/stories/"
+    - title: "Nonfiction"
+      url: "/nonfiction/"
+    - title: "About"
+      url: "/about/"
