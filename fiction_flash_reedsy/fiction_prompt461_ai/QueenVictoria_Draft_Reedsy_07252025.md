@@ -2,7 +2,7 @@
   
 Her voice rang out across the football field though she hadn’t yet moved her lips. Victoria steadied the cheap crown on her head and searched for the source.  She looked up to the jumbotron for the video montage. They'd interviewed all the court nominees, and she'd beautifully feigned humility just like in the practice sessions with Emmy.  
 
-Nothing on the jumbotron. Not a word from her into the microphone. Yet her voice filled the cool night air. It rose and stretched out on the "thank you sooooo much" and then dipped for the slow, sincere "to everyone who voted".  Hundreds of faces appropriately smiled down at her, the Homecoming Queen.  
+Nothing on the jumbotron. Not a word into the microphone. Yet her voice filled the cool night air. It rose and stretched out on the "thank you sooooo much" and then dipped for the slow, sincere "to everyone who voted".  Hundreds of faces appropriately smiled down at her, the Homecoming Queen.  
 
 The disembodied voice shifted. Victoria dropped the microphone, the feedback a dreadful opening bell for what she realized was coming next. Her own voice shredding herself in public.  
 
