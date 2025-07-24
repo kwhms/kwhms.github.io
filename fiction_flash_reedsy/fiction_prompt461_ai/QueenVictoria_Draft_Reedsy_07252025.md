@@ -12,7 +12,7 @@ The new counselors promised the Emotional Engineering AI Buddy, or Emmy, was com
 
 A better version of Victoria. A version that was wanted at every lunch table. A version that had a clever comeback to gossipy whispers. A version that would protect her from others.  
 
-Adults had failed her. Despite the framed diplomas and honorary plaques on the walls, they had no answers, no solutions. The harassment continued 24/7, online and in person. The family moved but her harassers’ words followed her. Their insults rattled in her waking mind and echoed in her dreams. Even in her imagination, she remained defenseless and mute.  
+Adults had failed her. Despite the framed diplomas and honorary plaques on the walls, they had no answers, no solutions. The harassment continued 24/7, online and in person. The family moved but her harassers’ words followed her. Their insults rattled around in her waking mind and echoed in her dreams. Even in her imagination, she remained defenseless and mute.  
 
 Emmy finally gave her the lost words.  
 
