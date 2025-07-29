@@ -1,5 +1,6 @@
+[contest #312](https://blog.reedsy.com/short-story/04hzx0/?utm_source=mandrill&utm_medium=email&utm_campaign=writing_prompts)  
 # Queen Victoria
-  
+
 Her voice rang out across the football field though she hadn’t yet moved her lips. Victoria steadied the cheap crown on her head and searched for the source.  She looked up to the jumbotron for the video montage. They'd interviewed all the court nominees, and she'd beautifully feigned humility just like in the practice sessions with Emmy.  
 
 Nothing on the jumbotron. Not a word into the microphone. Yet her voice filled the cool night air. It rose and stretched out on the "thank you sooooo much" and then dipped for the slow, sincere "to everyone who voted".  Hundreds of faces appropriately smiled down at her, the Homecoming Queen.  
