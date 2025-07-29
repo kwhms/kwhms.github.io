@@ -1,4 +1,4 @@
-# Friends
+# Can we be Friends
 
 Sue is new in school.  
 I do not know Sue.  
