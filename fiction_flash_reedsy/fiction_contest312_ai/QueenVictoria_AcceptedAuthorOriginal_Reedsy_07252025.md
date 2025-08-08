@@ -1,4 +1,7 @@
+*Written in response to: "Write a story that includes the line “Are you real?” or “Who are you?”"*  
 [contest #312](https://blog.reedsy.com/short-story/04hzx0/?utm_source=mandrill&utm_medium=email&utm_campaign=writing_prompts)  
+
+
 # Queen Victoria
 
 Her voice rang out across the football field though she hadn’t yet moved her lips. Victoria steadied the cheap crown on her head and searched for the source.  She looked up to the jumbotron for the video montage. They'd interviewed all the court nominees, and she'd beautifully feigned humility just like in the practice sessions with Emmy.  

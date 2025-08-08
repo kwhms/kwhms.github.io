@@ -22,3 +22,6 @@ In this flash fiction (barely 1k words) I chose prompt 5 and played with these t
 6. Words as defense and weapons, shield and sword.
 7. Are we all victims?
 8. In the end, aren't other humans the real danger?
+
+## alternative titles
+1. set_program("Main Character Energy")
