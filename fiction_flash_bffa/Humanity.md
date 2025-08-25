@@ -1,4 +1,4 @@
-# Fur Dries Tears Best
+# Humanity
 
 For 8 years she had desperately wanted to be human but now was at peace being herself, a good dog. She calmly leaned into the little girl’s grip, feeling her despair. The tears fell onto the white fur, and the girl hiccupped her name, Sugar.  
 
