@@ -1,5 +1,6 @@
-# Tokyo
 ###### Writing Prompt, ~5min - journey outside realm of normal experience
+---
+# Tokyo
 
 A group of Elvis impersonators walk past a group dressed head-to-toe in Hello Kitty garb.  
 A military green truck with men wearing Rising-Sun headbands and yelling out of mega-phones drive past.  
