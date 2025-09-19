@@ -1,1 +1,5 @@
-WIP
+---
+layout: default
+title: KWH Writing Portfolio
+---
+
