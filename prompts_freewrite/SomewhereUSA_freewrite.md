@@ -1,6 +1,6 @@
 ---
 title: "Somewhere USA"
-excerpt: "Prompt, 5 mins - Earliest memory of a trip that "left a mark on me"
+excerpt: "Prompt, 5 mins - Earliest memory of a trip that 'left a mark on me'
 ---
 
 Uniform rows of horse-stables, each row slightly more elevated than the previous because the tan land is on the side of a big hill.
