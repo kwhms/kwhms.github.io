@@ -1,0 +1,4 @@
+title: Kelly's Writing Portfolio
+theme: minima
+plugins:
+  - jekyll-feed
