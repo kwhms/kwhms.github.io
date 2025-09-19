@@ -6,5 +6,22 @@ plugins:
 exclude:
   - README.md
   - .gitignore
-  - _drafts/
+  - drafts/
+  - unused/
+  - fiction_early_reader_gal/
+  - fiction_flash_bffa/
+  - fiction_flash_reedsy/
+  - fiction_flash_sixwords/
+  - nonficion_blog/
+
+collections:
+  prompts_freewrite:
+    output: true
+    permalink: /blog/:path/
+
+defaults:
+  - scope:
+      path: "_flash_fiction"
+    values:
+      layout: default
 
