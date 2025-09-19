@@ -1,3 +1,7 @@
+---
+title: "What is travel writing?"
+---
+
 ### What is travel writing?  
 Current world filtered through my life lens
 
