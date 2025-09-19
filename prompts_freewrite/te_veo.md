@@ -1,10 +1,3 @@
----
-title: "Te Veo"
-category: "prompts_freewrite"
-tags: ["poem", "poetry"]
-layout: default
----
-
 ###### Write a poem about how one important person in your life (past or present) sees you!
 
 # Te Veo
