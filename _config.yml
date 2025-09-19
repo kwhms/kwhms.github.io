@@ -10,13 +10,18 @@ markdown: kramdown
 plugins:
   - jekyll-feed
 
-minima:
-  navigation:
-    - title: "Home"
-      url: "/"
-    - title: "Stories"
-      url: "/stories/"
-    - title: "Nonfiction"
-      url: "/nonfiction/"
-    - title: "About"
-      url: "/about/"
+collections:
+  early_reader:
+    output: true
+    permalink: /early_reader/:path/
+  flash_fiction:
+    output: true
+    permalink: /flash_fiction/:path/
+  nonfiction:
+    output: true
+    permalink: /nonfiction_blog/:path/
+  prompts:
+    output: true
+    permalink: /prompts/:path/
+
+
