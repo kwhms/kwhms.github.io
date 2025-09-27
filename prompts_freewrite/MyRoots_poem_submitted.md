@@ -1,3 +1,5 @@
+*Submitted to The Letter Review, One Page Poetry
+
 # My Roots
 
 Every few weeks,  
