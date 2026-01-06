@@ -13,3 +13,6 @@ Guilt woke me at 3am and shame dogged my steps during the day. I chewed my finge
 *Misery escapes, expands, and is unbound*. His perfect hands traced the back side of the paper. It had not been a loophole, but a trick. *“Name somebody”*, baited the devil. I told myself a paper has no third side. I could beat his two laws. Not an innocent, but an enemy this time. I printed so precisely and closed the deal.  
   
 The world crystallized around me and time chilled to a halt. The devil’s fine fingers held an envelope.  My eyes bleed to read the writing. A third law coldly sealed my foolish, final misery!  
+
+# 
+###### [Submitted 2025-09-27]
